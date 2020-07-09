@@ -14,7 +14,6 @@ I want to work on meaningful and valuable products that do good, for man, nature
 [Instagram](https://instagram.com/Brody) ・ 
 [LinkedIn](https://www.linkedin.com/in/BrodyMaclean/) ・ 
 [Codepen](https://codepen.io/Brody) ・ 
-[Github](https://github.com/Brody) ・ 
 <a href="mailto:hello@brody.com?Subject=G'day Brody!" target="_blank">Email</a>
 
 ### For more info check out [Brody.com](http://brody.com)
