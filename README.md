@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/brody/brody.com/master/src/assets/img/memoji/memoji8.png" height="72">
+<img src="https://raw.githubusercontent.com/brody/brody.com/master/src/assets/img/memoji/memoji4.png" height="72">
 
 ## G'day, I’m Brody MacLean ✌️ 
 
