@@ -2,7 +2,7 @@
 
 ## G'day, I’m Brody MacLean ✌️ 
 
-I’m a multi-disciplinary product designer based in [Sydney, Australia](https://time.is/Sydney). Currently, I’m a Design System Lead at [Prospa](https://www.prospa.com/) giving our designers and developers the tools to help small businesses keep moving. Previously I've made things at places like [Deputy](https://www.deputy.com/), [Hudl](https://www.hudl.com/) and [CloudBees](https://www.cloudbees.com/).
+I’m a multi-disciplinary product designer based in [Sydney, Australia](https://time.is/Sydney). Currently, I’m a Design Lead at [Atlassian](https://www.atlassian.com/), enabling users to collaborate across their Atlassian toolset. Previously I've made things at places like [Deputy](https://www.deputy.com/), [Hudl](https://www.hudl.com/), [Prospa](https://www.prospa.com/) and [CloudBees](https://www.cloudbees.com/).
 
 ### Vision
 
